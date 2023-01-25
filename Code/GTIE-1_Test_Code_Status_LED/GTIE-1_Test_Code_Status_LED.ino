@@ -1,18 +1,18 @@
 /*
-  Dave Williams, DitroniX 2019-2022 (ditronix.net)
+  Dave Williams, DitroniX 2019-2023 (ditronix.net)
   GTIE Grid Tie Inverter Extender v1.0
   Features include ESP8266 CT Clamp Battery Voltage Detector I2C OLED Opto-In GPIO
-  PCA v1.00 - Test Code Firmware v1 - 7th October 2022
-  .
-  Simplified Board Bring Up Test - Blue Status LED
-  .
+  PCA v1.2211-104 - Test Code Firmware v1 - 19th January 2023
+  
+  Simplified Board Bring Up Test - Blue Status LED Flashing
+  
   Remember!
-  - Set the BOARD to ESP8266 DEV Module (or similar).
+  - Set the BOARD to ESP8266 DEV Module (Any Wemos D1 or similar).
   - You can also set the BAUD rate up to 921600 to speed up flashing.
   - The SDK does NOT need external power to flash.  It will take Power from the USB 5V.
-  .
+  
   The purpose of this test code is to cycle through the various main functions of the board as part of bring up testing.
-  .
+  
   This test code is OPEN SOURCE and formatted for easier viewing.  Although is is not intended for real world use, it may be freely used, or modified as needed.
   It is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 
