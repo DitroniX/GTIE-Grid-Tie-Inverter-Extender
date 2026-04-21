@@ -1,6 +1,6 @@
 ## GTIE Grid Tie Inverter Extender
 
-------------
+UPDATE: 20th April 2026.  This evaluation board is no longer supported.
 
 ![Display-Type-B](https://ditronix.net/wp-content/uploads/2022/09/GTIE-ESP8266-SDK-v1-2210-103-OLED-scaled.jpg?raw=true)
 
